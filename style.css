@@ -64,6 +64,9 @@ body {
       width: 350px;
       font-size: 13px;
     }
+    #video-background {
+      object-fit: cover;
+    }
   }
 
 
